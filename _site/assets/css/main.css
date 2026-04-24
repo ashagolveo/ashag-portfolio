@@ -236,8 +236,8 @@ section p:last-child {
     margin-bottom: .5rem
 }
 
-.experience {
-    background-color: rgb(74, 78, 105);
+.research {
+    background-color: rgb(201, 173, 167);
     padding-top: 20px;;
 }
 
@@ -360,7 +360,7 @@ section p:last-child {
     margin-right: .5em
 }
 
-.resume__item-links>li:not(:last-of-type) {
+.resume__item-links>{
     margin-right: 10px
 }
 
@@ -538,7 +538,8 @@ section p:last-child {
 
 .footer {
     text-align: center;
-    font-size: .9rem
+    font-size: .9rem;
+    margin-top: 40px;
 }
 
 /* .footer>.container {
@@ -596,7 +597,7 @@ section p:last-child {
     background-color: transparent
 }
 
-.experience {
+/* .experience {
     .services-container {
             display: grid;
             grid-auto-columns: minmax(0, 1fr);
@@ -634,7 +635,7 @@ section p:last-child {
         background-color: #5621
 
     }
-}
+} */
 
 .timeline-container {
   box-sizing: border-box;
